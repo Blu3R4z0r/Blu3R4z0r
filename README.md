@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Blu3R4z0r</h1>
-<h3 align="center">Security Researcher | SOC Analyst | Pentester</h3>
+<h3 align="center">Security Researcher | Detection Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blu3R4z0r&label=Profile%20views&color=blue&&style=flat" alt="Blu3R4z0r" /> </p>
 
